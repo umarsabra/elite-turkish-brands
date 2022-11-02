@@ -1,0 +1,48 @@
+CODE 2,SKU,TITLE,QUANTITY,PACKAGE WEIGHT,PACKAGE WIDTH,PACKAGE LENGTH,PACKAGE HIGHT,ITEM WEIGHT,IMAGE COUNT,COLOR
+BSM069,12-002-K6-18,Ahsen 6 Person Tea Set,12,16.1,44.5,38,43,1.34,4,Gold
+BSM067,12-002-K6-11,Ahsen 6 Person Tea Set,12,16.1,44.5,38,43,1.34,4,Silver
+BSM077,12-003-KK6-18,Ahsen Coffee Cup Set Of 6 Persons ,12,20,44.5,38,43,1.67,1,Gold
+BSM076,12-003-KK6-11,Ahsen Coffee Cup Set Of 6 Persons ,12,20,44.5,38,43,1.67,1,Silver
+BSM088,12-004-K6-DSNMİX-18,Ahsen Tiryaki Mix Design Coffee Set,12,16.6,51,40,49,1.38,1,Gold
+BSM087,12-004-K6-DSNMİX-11,Ahsen Tiryaki Mix Design Coffee Set,12,16.6,51,40,49,1.38,1,Silver
+BSM136,12-012-K6-18,Ahu 6 Person Tea Set,12,16.85,44.5,38,43,1.4,4,Gold
+BSM135,12-012-K6-11,Ahu 6 Person Tea Set,12,16.85,44.5,38,43,1.4,4,Silver
+BSM127,12-010-K6-DSNMİX-18,Ahu Tiryaki Mix Design Coffee Set,12,15.8,51,40,49,1.32,2,Gold
+BSM126,12-010-K6-DSNMİX-11,Ahu Tiryaki Mix Design Coffee Set,12,15.8,51,40,49,1.32,2,Silver
+BSM181,15-012-K6-18,Ahu Tray With Tea Set,6,15,62,44,31.5,2.5,1,Gold
+BSM180,15-012-K6-11,Ahu Tray With Tea Set,6,15,62,44,31.5,2.5,1,Silver
+BSM196,15-014-K6-18,Blend Tray With Tea Set,6,15,62,44,31.5,2.5,3,Gold
+BSM195,15-014-K6-11,Blend Tray With Tea Set,6,15,62,44,31.5,2.5,3,Silver
+BSM288,15-015-K-18,Bridegroom Seljuk Single Presentation Set,20,12,41,40,40,0.6,3,Gold
+BSM287,15-015-K-11,Bridegroom Seljuk Single Presentation Set,20,12,41,40,40,0.6,3,Silver
+BSM324,15-010-K-18,Bridegroom Single Presentation Set,20,12,41,40,40,0.6,6,Gold
+BSM323,15-010-K-11,Bridegroom Single Presentation Set,20,12,41,40,40,0.6,6,Silver
+BSM183,18-003-SKK6-18,Coffee Set With Round Tray,5,11.5,41,40,40,2.3,1,Gold
+BSM182,18-003-SKK6-11,Coffee Set With Round Tray,5,11.5,41,40,40,2.3,2,Silver
+BSM064,12-001-K6-DSNKTM-18,Colored Coffee Cup Set,12,15.5,44.5,38,43,1.29,2,Gold
+BSM063,12-001-K6-DSNKTM-11,Colored Coffee Cup Set,12,15.5,44.5,38,43,1.29,2,Silver
+BSM286,15-010-SK2-18,Double Presentation Black Coffee Set,12,15.75,47,46,49,1.31,3,Gold
+BSM281,15-010-SK2-11,Double Presentation Black Coffee Set,12,15.75,47,46,49,1.31,3,Silver
+BSM322,15-010-K2-18,Double Presentation Coffee Set,12,15.75,47,46,49,1.31,3,Gold
+BSM321,15-010-K2-11,Double Presentation Coffee Set,12,15.75,47,46,49,1.31,3,Silver
+BSM552,12-020-SK6-18,Eylül Black Coffee Set,12,24.6,51,40,49,2.05,3,Gold
+BSM109,12-007-K6-DSNMİX-18,Lal Mix Design Coffee Set ,12,21.35,51,40,49,1.78,2,Gold
+BSM108,12-007-K6-DSNMİX-11,Lal Mix Design Coffee Set ,12,21.35,51,40,49,1.78,2,Silver
+BSM148,13-002-18,Large Size Delight Case,60,9.1,41,29.5,25,0.15,1,Gold
+BSM145,13-002-11,Large Size Delight Case,60,9.1,41,29.5,25,0.15,1,Silver
+BSM539,12-018-K6-DSNKTM-19,Nisa Coffee Set,12,21.15,51,40,49,1.76,4,Silver
+BSM538,12-018-K6-DSNKTM-18,Nisa Coffee Set,12,21.15,51,40,49,1.76,3,Gold
+BSM150,13-003-18,Oval Delight Case,100,16.2,41,21.7,15.5,0.16,2,Gold
+BSM149,13-003-11,Oval Delight Case,100,16.5,41,21.5,15.5,0.17,2,Silver
+BSM099,12-006-K6-18,Sefa 6 Person Tea Set,9,18.55,62,44,31.5,2.06,2,Gold
+BSM098,12-006-K6-11,Sefa 6 Person Tea Set,9,18.55,62,44,31.5,2.06,2,Silver
+BSM252,12-002-KTŞ6-18,Stony Ahsen Tea Set Of 6 Persons ,12,18,44.5,38,43,1.5,12,Gold
+BSM251,12-002-KTŞ6-11,Stony Ahsen Tea Set Of 6 Persons ,12,18,44.5,38,43,1.5,12,Silver
+BSM475,14-011-K-18,Tow Floor Presentation Set,6,10.2,62,44,31.5,1.7,4,Gold
+BSM192,11-006-2-18,Tray For 2 Persons,25,10.2,41,21.7,15.5,0.41,3,Gold
+BSM191,11-006-2-11,Tray For 2 Persons,25,10.2,41,21.7,15.5,0.41,3,Silver
+BSM012,11-001-6-18,Tray For 6 Persons ,40,32,41,29.5,25,0.8,2,Gold
+BSM011,11-001-6-11,Tray For 6 Persons ,40,32,41,29.5,25,0.8,2,Silver
+BSM472,14-011-K-19,Two Floor Porcelain Mirra Presentation Set,6,10.2,62,44,31.5,1.7,4,Silver
+BSM053,11-004-6-18,Wavy Round Tray,50,27.2,40,44,12,0.54,1,Gold
+BSM051,11-004-6-11,Wavy Round Tray,50,27.2,40,44,12,0.54,1,Silver
